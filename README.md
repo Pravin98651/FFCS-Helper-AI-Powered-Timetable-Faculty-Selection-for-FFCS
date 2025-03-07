@@ -3,6 +3,7 @@
 
 Note:
 This project is still under maintenance. The code will be updated regularly.
+1faculty_data.csv is a sample file. The data provided is not fully real and is used for testing purposes only.
 
 🔹 Key Features:
 ✅ AI-Based Faculty Selection – Predicts the best faculty based on Teaching, Leniency, Assignments, and Marking.
