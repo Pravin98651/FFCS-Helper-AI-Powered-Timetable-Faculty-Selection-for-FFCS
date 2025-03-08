@@ -7,10 +7,15 @@ This project is still under maintenance. The code will be updated regularly.
 
 🔹 Key Features:
 ✅ AI-Based Faculty Selection – Predicts the best faculty based on Teaching, Leniency, Assignments, and Marking.
+
 ✅ Smart Timetable Optimization – Ensures selected faculties do not create scheduling conflicts.
+
 ✅ Personalized Faculty Ranking – Custom scoring based on student preferences.
+
 ✅ Web Interface – Built with Streamlit for a user-friendly experience.
+
 ✅ Real-Time Decision Making – Helps students make informed choices efficiently.
+
 
 🔧 Tech Stack:
 Python (Machine Learning with scikit-learn, pandas, numpy)
